@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "chip8keyboard.h": "c",
+        "assert.h": "c",
+        "chip8.h": "c",
+        "chip8memory.h": "c",
+        "stdbool.h": "c",
+        "config.h": "c",
+        "sdl.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
